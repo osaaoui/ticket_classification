@@ -16,4 +16,3 @@ matplotlib
 seaborn
 numpy
 joblib
-yaml
